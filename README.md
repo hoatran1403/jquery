@@ -1,7 +1,7 @@
 [jQuery](https://jquery.com/) — New Wave JavaScript
 ==================================================
 
-(TESTING MESSAGE)
+(ANOTHER TESTING MESSAGE)
 
 Contribution Guides
 --------------------------------------
